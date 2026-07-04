@@ -6,7 +6,7 @@
       <p align="left">Building responsive full-stack applications and engineering autonomous intelligent workflows.</p>
     </td>
     <td width="35%" valign="middle" align="center">
-      <img src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/code.svg" width="120" height="120" alt="Developer Icon" style="filter: invert(39%) sepia(87%) saturate(2329%) hue-rotate(247deg) brightness(95%) contrast(93%);" />
+      <img src="https://i.pinimg.com/736x/c7/ca/26/c7ca2639a1dc02e9110984155d058db2.jpg" width="120" height="120" alt="Developer Icon" style="filter: invert(39%) sepia(87%) saturate(2329%) hue-rotate(247deg) brightness(95%) contrast(93%);" />
     </td>
   </tr>
 </table>
