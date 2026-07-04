@@ -259,5 +259,85 @@ exploring:
 openTo:
   - Core System Engineering Internships
   - Enterprise Cross-Platform Application Design
+  
+---
 
 ## 15. Connect With Me
+
+<p align="center">
+  <a href="mailto:y08.khushboo@gmail.com"><img src="https://img.shields.io/badge/Gmail-y08.khushboo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Connect"></a>
+  <a href="https://linkedin.com/in/khushbooo-yadav-4b8449322"><img src="https://img.shields.io/badge/LinkedIn-Khushboo%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Connect"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/khushboo-yadav28"><img src="https://img.shields.io/badge/GitHub-khushboo--yadav28-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Connect"></a>
+  <a href="https://github.com/khushboo-yadav28"><img src="https://img.shields.io/badge/Portfolio-Premium_Developer-9457EB?style=for-the-badge&logo=rocket&logoColor=white" alt="Portfolio Connect"></a>
+</p>
+
+<br>
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Channel</b></td>
+      <td align="center"><b>Platform / Network</b></td>
+      <td align="center"><b>Purpose / Domain</b></td>
+    </tr>
+    <tr>
+      <td align="center">🟢 <b>01</b></td>
+      <td><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"> <code>khushboo_yadav</code></td>
+      <td>Instant Technical Collaboration & Ideation</td>
+    </tr>
+    <tr>
+      <td align="center">🟢 <b>02</b></td>
+      <td><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" alt="Slack"> <code>Workspace Link</code></td>
+      <td>Enterprise Standups & Distributed Teamwork</td>
+    </tr>
+    <tr>
+      <td align="center">🟢 <b>03</b></td>
+      <td><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"> <code>+91 9664652790</code></td>
+      <td>High-Priority Communication & Urgencies</td>
+    </tr>
+    <tr>
+      <td align="center">🟢 <b>04</b></td>
+      <td><img src="https://img.shields.io/badge/X-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="Twitter/X"> <code>@khushboo_dev</code></td>
+      <td>Tech Ecosystem Micro-Blogging & Trends</td>
+    </tr>
+    <tr>
+      <td align="center">🟢 <b>05</b></td>
+      <td><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium"> <code>@khushboo-yadav</code></td>
+      <td>Deep-Dive Technical Case Studies & Articles</td>
+    </tr>
+    <tr>
+      <td align="center">🟢 <b>06</b></td>
+      <td><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="Dev.to"> <code>@khushbooyadav28</code></td>
+      <td>Open-Source Documentation & Snippets</td>
+    </tr>
+    <tr>
+      <td align="center">🟢 <b>07</b></td>
+      <td><img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white" alt="Hashnode"> <code>@khushboo</code></td>
+      <td>Engineering Blogs & Software Architecture Logs</td>
+    </tr>
+    <tr>
+      <td align="center">🟢 <b>08</b></td>
+      <td><img src="https://img.shields.io/badge/Stack_Overflow-F48024?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow"> <code>User Profile</code></td>
+      <td>Community QA & Algorithmic Problem Solving</td>
+    </tr>
+    <tr>
+      <td align="center">🟢 <b>09</b></td>
+      <td><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"> <code>Profile Link</code></td>
+      <td>AI / Machine Learning Datasets & Notebooks</td>
+    </tr>
+    <tr>
+      <td align="center">🟢 <b>10</b></td>
+      <td><img src="https://img.shields.io/badge/HackerNoon-00CD00?style=flat-square&logo=hackernoon&logoColor=white" alt="HackerNoon"> <code>Contributions</code></td>
+      <td>Emerging Tech & Agentic AI Research Reviews</td>
+    </tr>
+    <tr>
+      <td align="center">🟢 <b>11</b></td>
+      <td><img src="https://img.shields.io/badge/Telegram-26A6E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"> <code>@khushboo_yadav28</code></td>
+      <td>Quick Syncs, Project Updates & Community Groups</td>
+    </tr>
+  </table>
+</p>
+
+---
