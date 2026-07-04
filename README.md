@@ -5,8 +5,8 @@
       <p align="left"><b>Software Engineer & AI/ML Researcher</b></p>
       <p align="left">Building responsive full-stack applications and engineering autonomous intelligent workflows.</p>
     </td>
-    <td width="45%" valign="middle" align="center">
-      <img src="https://i.pinimg.com/736x/c7/ca/26/c7ca2639a1dc02e9110984155d058db2.jpg" width="120" height="120" alt="Developer Icon" style="filter: invert(39%) sepia(87%) saturate(2329%) hue-rotate(247deg) brightness(95%) contrast(93%);" />
+    <td width="35%" valign="middle" align="center">
+      <img src="https://i.pinimg.com/736x/c7/ca/26/c7ca2639a1dc02e9110984155d058db2.jpg" width="140" height="140" alt="Developer Icon" style="filter: invert(39%) sepia(87%) saturate(2329%) hue-rotate(247deg) brightness(95%) contrast(93%);" />
     </td>
   </tr>
 </table>
