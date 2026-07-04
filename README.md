@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/khushboo-yadav28"><img src="https://img.shields.io/badge/Portfolio-Premium%20Developer-E0AAFF?style=for-the-badge&logo=rocket&logoColor=000" alt="Portfolio Button"></a>
+  <!--<a href="https://github.com/khushboo-yadav28"><img src="https://img.shields.io/badge/Portfolio-Premium%20Developer-E0AAFF?style=for-the-badge&logo=rocket&logoColor=000" alt="Portfolio Button"></a>-->
   <a href="https://linkedin.com/in/khushbooo-yadav-4b8449322"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button"></a>
   <a href="mailto:y08.khushboo@gmail.com"><img src="https://img.shields.io/badge/Email-Inquire-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Button"></a>
   <a href="https://github.com/khushboo-yadav28"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Button"></a>
@@ -68,7 +68,7 @@ I am a high-performing IT graduate and master's student driven by the pursuit of
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <!--<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />-->
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
 </p>
