@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/khushboo-yadav28"><img src="https://img.shields.io/badge/🚀_PORTFOLIO-PREMIUM_DEVELOPER-8338EC?style=for-the-badge&logoColor=white" alt="Portfolio Button"></a>
+  <!--<a href="https://github.com/khushboo-yadav28"><img src="https://img.shields.io/badge/🚀_PORTFOLIO-PREMIUM_DEVELOPER-8338EC?style=for-the-badge&logoColor=white" alt="Portfolio Button"></a>-->
   <a href="https://www.linkedin.com/in/khushbooo-yadav-4b8449322/"><img src="https://img.shields.io/badge/⚡_LINKEDIN-CONNECT_NOW-3A86FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button"></a>
   <a href="mailto:y08.khushboo@gmail.com"><img src="https://img.shields.io/badge/📧_EMAIL-GET_IN_TOUCH-00CEC9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Button"></a>
   <a href="https://github.com/khushboo-yadav28"><img src="https://img.shields.io/badge/👾_GITHUB-FOLLOW_ENGINEER-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Button"></a>
