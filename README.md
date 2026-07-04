@@ -1,9 +1,18 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=Yadav%20Khushboo&fontSize=70&fontColor=ffffff&animation=fadeIn&theme=dark" alt="Capsule Render Wave Banner" />
-</p>
+<table width="100%" cellpadding="20" cellspacing="0" border="0">
+  <tr>
+    <td width="65%" valign="middle" align="left">
+      <h1 align="left">KHUSHBOO YADAV</h1>
+      <p align="left"><b>Software Engineer & AI/ML Researcher</b></p>
+      <p align="left">Building responsive full-stack applications and engineering autonomous intelligent workflows.</p>
+    </td>
+    <td width="35%" valign="middle" align="center">
+      <img src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/code.svg" width="120" height="120" alt="Developer Icon" style="filter: invert(39%) sepia(87%) saturate(2329%) hue-rotate(247deg) brightness(95%) contrast(93%);" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9457EB&center=true&vCenter=true&width=500&lines=Master+of+Science+in+IT;Full+Stack+Software+Engineer;AI+%2F+ML+Researcher" alt="Typing SVG Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9457EB&center=true&vCenter=true&width=500&lines=Master+of+Science+in+IT;Full+Stack+Software+Engineer;AI+%2F+ML+Researcher" alt="Typing SVG Animation" />
 </p>
 
 <p align="center">
@@ -13,8 +22,8 @@
 </p>
 
 <p align="center">
-  <!--<a href="https://github.com/khushboo-yadav28"><img src="https://img.shields.io/badge/Portfolio-Premium%20Developer-E0AAFF?style=for-the-badge&logo=rocket&logoColor=000" alt="Portfolio Button"></a>-->
-  <a href="https://linkedin.com/in/khushbooo-yadav-4b8449322"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button"></a>
+  <a href="https://github.com/khushboo-yadav28"><img src="https://img.shields.io/badge/Portfolio-Premium%20Developer-E0AAFF?style=for-the-badge&logo=rocket&logoColor=000" alt="Portfolio Button"></a>
+  <a href="https://www.linkedin.com/in/khushbooo-yadav-4b8449322/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button"></a>
   <a href="mailto:y08.khushboo@gmail.com"><img src="https://img.shields.io/badge/Email-Inquire-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Button"></a>
   <a href="https://github.com/khushboo-yadav28"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Button"></a>
 </p>
