@@ -11,19 +11,6 @@
   </tr>
 </table>
 
-<table width="100%" cellpadding="20" cellspacing="0" border="0">
-  <tr>
-    <td width="65%" valign="middle" align="left">
-      <h1 align="left" style="color: #6C5CE7; font-family: 'Segoe UI', sans-serif;">KHUSHBOO YADAV</h1>
-      <p align="left" style="font-size: 1.2em; color: #00CEC9;"><b>Software Engineer & AI/ML Researcher</b></p>
-      <p align="left" style="color: #A29BFE;">Building responsive full-stack applications and engineering autonomous intelligent workflows.[cite: 2]</p>
-    </td>
-    <td width="35%" valign="middle" align="center">
-      <img src="https://github.com/khushboo-yadav28/khushboo-yadav28/assets/custom-cute-cat.png" width="140" height="140" alt="Developer Cat Logo" onerror="this.onerror=null; this.src='https://api.iconify.design/fluent-mdl2/developer-tools.svg?color=%236c5ce7';" />
-    </td>
-  </tr>
-</table>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00CEC9&center=true&vCenter=true&width=500&lines=Master+of+Science+in+IT;Full+Stack+Software+Engineer;AI+%2F+ML+Researcher" alt="Typing SVG Animation" />
 </p>
