@@ -11,27 +11,40 @@
   </tr>
 </table>
 
+<table width="100%" cellpadding="20" cellspacing="0" border="0">
+  <tr>
+    <td width="65%" valign="middle" align="left">
+      <h1 align="left" style="color: #6C5CE7; font-family: 'Segoe UI', sans-serif;">KHUSHBOO YADAV</h1>
+      <p align="left" style="font-size: 1.2em; color: #00CEC9;"><b>Software Engineer & AI/ML Researcher</b></p>
+      <p align="left" style="color: #A29BFE;">Building responsive full-stack applications and engineering autonomous intelligent workflows.[cite: 2]</p>
+    </td>
+    <td width="35%" valign="middle" align="center">
+      <img src="https://github.com/khushboo-yadav28/khushboo-yadav28/assets/custom-cute-cat.png" width="140" height="140" alt="Developer Cat Logo" onerror="this.onerror=null; this.src='https://api.iconify.design/fluent-mdl2/developer-tools.svg?color=%236c5ce7';" />
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9457EB&center=true&vCenter=true&width=500&lines=Master+of+Science+in+IT;Full+Stack+Software+Engineer;AI+%2F+ML+Researcher" alt="Typing SVG Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00CEC9&center=true&vCenter=true&width=500&lines=Master+of+Science+in+IT;Full+Stack+Software+Engineer;AI+%2F+ML+Researcher" alt="Typing SVG Animation" />
 </p>
 
 <p align="center">
-  <a href="https://glsuniversity.ac.in"><img src="https://img.shields.io/badge/GLS%20University-M.Sc.%20(IT)%20Candidate-5A189A?style=flat-square&logo=academia&logoColor=white" alt="Academic Badge"></a>
-  <a href="https://glsuniversity.ac.in"><img src="https://img.shields.io/badge/FCAIT-5th%20Departmental%20Rank-7B2CBF?style=flat-square&logo=read-the-docs&logoColor=white" alt="Academic Rank Badge"></a>
-  <img src="https://img.shields.io/badge/Location-Ahmedabad,%20India-9D4EDD?style=flat-square&logo=google-maps&logoColor=white" alt="Location Badge">
+  <a href="https://glsuniversity.ac.in"><img src="https://img.shields.io/badge/GLS%20University-M.Sc.%20(IT)%20Candidate-3A86FF?style=flat-square&logo=academia&logoColor=white" alt="Academic Badge"></a>
+  <a href="https://glsuniversity.ac.in"><img src="https://img.shields.io/badge/FCAIT-5th%20Departmental%20Rank-8338EC?style=flat-square&logo=read-the-docs&logoColor=white" alt="Academic Rank Badge"></a>
+  <img src="https://img.shields.io/badge/Location-Ahmedabad,%20India-00F5D4?style=flat-square&logo=google-maps&logoColor=000" alt="Location Badge">
 </p>
 
 <p align="center">
-  <a href="https://github.com/khushboo-yadav28"><img src="https://img.shields.io/badge/Portfolio-Premium%20Developer-E0AAFF?style=for-the-badge&logo=rocket&logoColor=000" alt="Portfolio Button"></a>
-  <a href="https://www.linkedin.com/in/khushbooo-yadav-4b8449322/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button"></a>
-  <a href="mailto:y08.khushboo@gmail.com"><img src="https://img.shields.io/badge/Email-Inquire-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Button"></a>
-  <a href="https://github.com/khushboo-yadav28"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Button"></a>
+  <a href="https://github.com/khushboo-yadav28"><img src="https://img.shields.io/badge/🚀_PORTFOLIO-PREMIUM_DEVELOPER-8338EC?style=for-the-badge&logoColor=white" alt="Portfolio Button"></a>
+  <a href="https://www.linkedin.com/in/khushbooo-yadav-4b8449322/"><img src="https://img.shields.io/badge/⚡_LINKEDIN-CONNECT_NOW-3A86FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button"></a>
+  <a href="mailto:y08.khushboo@gmail.com"><img src="https://img.shields.io/badge/📧_EMAIL-GET_IN_TOUCH-00CEC9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Button"></a>
+  <a href="https://github.com/khushboo-yadav28"><img src="https://img.shields.io/badge/👾_GITHUB-FOLLOW_ENGINEER-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Button"></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khushboo-yadav28&color=7B2CBF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views Badge">
-  <img src="https://img.shields.io/github/followers/khushboo-yadav28?label=Followers&style=flat-square&color=5A189A" alt="Followers Badge">
-  <img src="https://img.shields.io/github/stars/khushboo-yadav28?label=Stars&style=flat-square&color=3C096C" alt="Stars Badge">
+  <img src="https://komarev.com/ghpvc/?username=khushboo-yadav28&color=8338EC&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views Badge">
+  <img src="https://img.shields.io/github/followers/khushboo-yadav28?label=Followers&style=flat-square&color=3A86FF" alt="Followers Badge">
+  <img src="https://img.shields.io/github/stars/khushboo-yadav28?label=Stars&style=flat-square&color=00CEC9" alt="Stars Badge">
 </p>
 
 ---
