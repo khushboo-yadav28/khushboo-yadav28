@@ -186,7 +186,7 @@ Developed a resilient full-stack publishing web system powered by Django's Model
 <p align="left">
   <a href="https://www.theforage.com" target="_blank"><img src="https://img.shields.io/badge/Tata-GenAI_Data_Analytics-861F41?style=flat-square&logo=tata&logoColor=white" alt="Tata Cert"></a>
   <a href="https://www.theforage.com" target="_blank"><img src="https://img.shields.io/badge/Deloitte-Data_Analytics_Simulation-00A3E0?style=flat-square&logo=deloitte&logoColor=white" alt="Deloitte Cert"></a>
-  <a href="https://www.theforage.com" target="_blank"><img src="file:///C:/Users/HP/Documents/Certificates/Mastercard_cybersecurity_certificate.pdf?style=flat-square&logo=mastercard&logoColor=white" alt="Mastercard Cert"></a>
+  <a href="file:///C:/Users/HP/Documents/Certificates/Mastercard_cybersecurity_certificate.pdf" target="_blank"><img src="https://img.shields.io/badge/Mastercard-Cybersecurity_Simulation-FF5F00?style=flat-square&logo=mastercard&logoColor=white" alt="Mastercard Cert"></a>
 </p>
 
 ### Institutional Excellence
