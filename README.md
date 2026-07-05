@@ -1,269 +1,137 @@
+# Hi 👋, I'm Khushboo Yadav
+
 <p align="center">
-  <img src="github_header_banner.png" width="100%" alt="Khushboo Yadav Banner">
+  <img src="github_header_banner.png" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Khushboo Yadav</h1>
-
-<h3 align="center">
-Integrated M.Sc. IT Student • Full Stack Developer • AI Enthusiast
-</h3>
+<h3 align="center">Full Stack Developer • AI Enthusiast • Integrated M.Sc. IT Student</h3>
 
 <p align="center">
-Building scalable web applications with Angular, Django & Node.js while exploring Artificial Intelligence and Machine Learning.
+Building modern full-stack applications with Angular, Django & Node.js while exploring AI, Machine Learning and Agentic AI.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&duration=3000&pause=1000&color=BB9AF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Angular+19+%7C+Django+%7C+Node.js;Machine+Learning+Enthusiast;Agentic+AI+Explorer;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3A86FF&center=true&vCenter=true&width=700&lines=Integrated+M.Sc.+IT+Student;Full+Stack+Developer;Angular+19+%7C+Django+%7C+Node.js;Machine+Learning+Enthusiast;Always+Learning+New+Technologies"/>
 </p>
 
 <p align="center">
-
-<a href="https://github.com/khushboo-yadav28">
-<img src="https://img.shields.io/github/followers/khushboo-yadav28?style=for-the-badge&color=BB9AF7&labelColor=1a1b27&logo=github">
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=khushboo-yadav28&style=for-the-badge&color=BB9AF7&labelColor=1a1b27"/>
-
-<a href="https://linkedin.com/in/khushbooo-yadav-4b8449322">
-<img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=BB9AF7">
-</a>
-
-<a href="mailto:y08.khushboo@gmail.com">
-<img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=BB9AF7">
-</a>
-
+<a href="https://github.com/khushboo-yadav28"><img src="https://img.shields.io/github/followers/khushboo-yadav28?style=for-the-badge&color=3A86FF"/></a>
+<img src="https://komarev.com/ghpvc/?username=khushboo-yadav28&style=for-the-badge&color=3A86FF"/>
+<a href="https://www.linkedin.com/in/khushbooo-yadav-4b8449322/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:y08.khushboo@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
-🎓 Integrated M.Sc. Information Technology Student
-
-🏅 Graduated B.Sc. IT with **8.9 CGPA** and **5th Department Rank**
-
-💻 Passionate about building scalable Full Stack Applications
-
-🤖 Interested in Artificial Intelligence, Machine Learning & Agentic AI
-
-🌱 Currently learning
-
-- Advanced Angular
-- Django REST Framework
-- Agentic AI
-- Machine Learning
-- Cloud Technologies
-
-🎯 Looking for
-
-- Software Developer Internships
-- Full Stack Developer Roles
-- AI/ML Opportunities
+- 🎓 Integrated M.Sc. Information Technology Student
+- 🏅 Graduated B.Sc. IT with **8.9 CGPA** and **5th Department Rank**
+- 💻 Passionate about Full Stack Development
+- 🤖 Exploring AI, Machine Learning & Agentic AI
+- 🌱 Currently learning Angular, Django REST Framework, Cloud & AI
+- 🎯 Seeking Software Development / Full Stack / AI internships
 
 ---
 
-# 🚀 Tech Stack
+## 🛠️ Tech Stack
 
-## 💻 Languages
+### Languages
+Python • JavaScript • TypeScript • Java • HTML • CSS • Dart
 
-<p>
+### Frontend
+Angular 19 • Bootstrap • Flutter
 
-<img src="https://skillicons.dev/icons?i=python"/>
+### Backend
+Node.js • Express.js • Django • Django REST Framework • REST APIs
 
-<img src="https://skillicons.dev/icons?i=javascript"/>
+### Database
+MongoDB • SQLite
 
-<img src="https://skillicons.dev/icons?i=typescript"/>
+### AI & ML
+Machine Learning • CNN • OpenCV • Sentiment Analysis • Agentic AI • Data Visualization
 
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=dart"/>
-
-</p>
+### Tools
+Git • GitHub • VS Code • Linux • Postman
 
 ---
 
-## 🎨 Frontend
+## 🚀 Featured Projects
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=angular"/>
-
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
-
-<img src="https://skillicons.dev/icons?i=flutter"/>
-
-</p>
+| Project | Description |
+|---|---|
+| 📦 Inventory Control System | Angular 19 + Node.js + MongoDB inventory management with JWT & RBAC |
+| 📝 Dynamic Blog Platform | Django + DRF blogging platform with CRUD, authentication & REST APIs |
+| 🤖 AI Mini Projects | Hand Gesture Recognition, Speech-to-Text, OCR, Computer Vision |
+| 📊 Data Analytics | Python-based analytics and visualization |
 
 ---
 
-## ⚙ Backend
+## 🏆 Achievements
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-<img src="https://skillicons.dev/icons?i=express"/>
-
-<img src="https://skillicons.dev/icons?i=django"/>
-
-<img src="https://skillicons.dev/icons?i=postman"/>
-
-</p>
+- 🥈 2nd Prize – State Level Poster Presentation, Sardar Patel University
+- 🥉 3rd Prize – Cyber Shadez 2026, GLS University
+- 🏅 5th Department Rank (B.Sc. IT, 8.9 CGPA)
 
 ---
 
-## 🗄 Database
+## 📜 Certifications
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-
-<img src="https://skillicons.dev/icons?i=sqlite"/>
-
-</p>
-
----
-
-## 🤖 AI / ML
-
-- Machine Learning
-- CNN
-- Agentic AI
-- Sentiment Analysis
-- Data Visualization
+- AWS – Foundations of Prompt Engineering
+- Google Cloud – Introduction to Generative AI Studio
+- Microsoft – Introduction to Copilot for Startups
+- Deloitte – Data Analytics Job Simulation
+- Mastercard – Cybersecurity Job Simulation
+- Tata – GenAI Powered Data Analytics
 
 ---
 
-## 🛠 Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-</p>
-
----
-
-# 🏆 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| 📦 Inventory Control System | Enterprise inventory management system with authentication and dashboard | Angular 19, Node.js, Express, MongoDB |
-| 📝 Dynamic Blog Platform | Full-stack blogging platform with CRUD operations and REST APIs | Django, DRF, Bootstrap |
-| 🤖 AI Mini Projects | Hand Gesture Recognition, Speech-to-Text, Machine Learning Projects | Python, OpenCV, TensorFlow |
-| 📊 Data Analytics | Data visualization and ML-based analysis | Python, Pandas |
-
----
-
-# 🏅 Achievements
-
-🥈 **2nd Prize**
-
-State Level Poster Presentation
-
-Sardar Patel University
-
----
-
-🥉 **3rd Prize**
-
-Cyber Shadez 2026
-
-GLS University
-
----
-
-🏅 **5th Department Rank**
-
-Faculty of Computer Applications & Information Technology
-
-Graduated B.Sc. IT with **8.9 CGPA**
-
----
-
-# 📜 Certifications
-
-- ☁ AWS — Foundations of Prompt Engineering
-- ☁ Google Cloud — Introduction to Generative AI Studio
-- 💻 Microsoft — Introduction to Copilot for Startups
-- 📊 Deloitte — Data Analytics Job Simulation
-- 🔐 Mastercard — Cybersecurity Job Simulation
-- 🤖 Tata — GenAI Powered Data Analytics Job Simulation
-
----
-
-# 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=khushboo-yadav28&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushboo-yadav28&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
----
-
-# 🔥 GitHub Streak
-
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=khushboo-yadav28&theme=tokyonight&hide_border=true"/>
-
 </p>
 
----
-
-# 📊 Contribution Graph
-
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushboo-yadav28&theme=tokyo-night"/>
-
 </p>
 
----
-
-# 🐍 Contribution Snake
-
 <p align="center">
-
 <img src="https://raw.githubusercontent.com/khushboo-yadav28/khushboo-yadav28/output/github-contribution-grid-snake.svg"/>
-
 </p>
 
 ---
 
-# 📫 Connect with Me
+## 🌱 Current Focus
 
-<p align="center">
-
-<a href="mailto:y08.khushboo@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://linkedin.com/in/khushbooo-yadav-4b8449322">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://github.com/khushboo-yadav28">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</p>
+```yaml
+building:
+  - AI Mini Projects
+  - Full Stack Applications
+learning:
+  - Agentic AI
+  - Advanced Angular
+  - Django REST Framework
+  - Cloud Technologies
+open_to:
+  - Software Development Internships
+  - Full Stack Developer Roles
+  - AI/ML Opportunities
+```
 
 ---
 
-<p align="center">
-⭐ Thanks for visiting my profile! ⭐
-</p>
+## 📫 Connect With Me
+
+- 📧 y08.khushboo@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/khushbooo-yadav-4b8449322/
+- 💻 GitHub: https://github.com/khushboo-yadav28
+
+---
+
+⭐ *Thanks for visiting my profile! If you like my work, consider starring my repositories.*
