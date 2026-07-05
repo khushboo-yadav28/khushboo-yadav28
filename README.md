@@ -174,25 +174,25 @@ Developed a resilient full-stack publishing web system powered by Django's Model
 
 ### AWS
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-Foundations_of_Prompt_Engineering-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Cert">
+  <a href="https://www.credly.com" target="_blank"><img src="https://img.shields.io/badge/AWS-Foundations_of_Prompt_Engineering-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Cert"></a>
 </p>
 
 ### Google Cloud
 <p align="left">
-  <img src="https://img.shields.io/badge/Google_Cloud-Intro_to_Generative_AI_Studio-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud Cert">
+  <a href="https://www.cloudskillsboost.google" target="_blank"><img src="https://img.shields.io/badge/Google_Cloud-Intro_to_Generative_AI_Studio-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud Cert"></a>
 </p>
 
 ### Corporate Simulations
 <p align="left">
-  <img src="https://img.shields.io/badge/Tata-GenAI_Data_Analytics-861F41?style=flat-square&logo=tata&logoColor=white" alt="Tata Cert">
-  <img src="https://img.shields.io/badge/Deloitte-Data_Analytics_Simulation-00A3E0?style=flat-square&logo=deloitte&logoColor=white" alt="Deloitte Cert">
-  <img src="https://img.shields.io/badge/Mastercard-Cybersecurity_Simulation-FF5F00?style=flat-square&logo=mastercard&logoColor=white" alt="Mastercard Cert">
+  <a href="https://www.theforage.com" target="_blank"><img src="https://img.shields.io/badge/Tata-GenAI_Data_Analytics-861F41?style=flat-square&logo=tata&logoColor=white" alt="Tata Cert"></a>
+  <a href="https://www.theforage.com" target="_blank"><img src="https://img.shields.io/badge/Deloitte-Data_Analytics_Simulation-00A3E0?style=flat-square&logo=deloitte&logoColor=white" alt="Deloitte Cert"></a>
+  <a href="https://www.theforage.com" target="_blank"><img src="https://img.shields.io/badge/Mastercard-Cybersecurity_Simulation-FF5F00?style=flat-square&logo=mastercard&logoColor=white" alt="Mastercard Cert"></a>
 </p>
 
 ### Institutional Excellence
 <p align="left">
-  <img src="https://img.shields.io/badge/Microsoft-Copilot_for_Startups-5E5E5E?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Cert">
-  <img src="https://img.shields.io/badge/FCAIT-Professional_Placement_Success-7B2CBF?style=flat-square&logo=read-the-docs&logoColor=white" alt="FCAIT Cert">
+  <a href="https://foundershub.startups.microsoft.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft-Copilot_for_Startups-5E5E5E?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Cert"></a>
+  <a href="https://glsuniversity.ac.in" target="_blank"><img src="https://img.shields.io/badge/FCAIT-Professional_Placement_Success-7B2CBF?style=flat-square&logo=read-the-docs&logoColor=white" alt="FCAIT Cert"></a>
 </p>
 
 ---
