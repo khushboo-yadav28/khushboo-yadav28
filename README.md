@@ -1,4 +1,4 @@
-<p align="center">
+<img width="1600" height="1132" alt="image" src="https://github.com/user-attachments/assets/db8a99b8-274b-4c84-a194-42e9c2a4944d" /><p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,12,20,24,30&text=Khushboo%20Yadav&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Integrated%20M.Sc.%20IT%20Student&descAlignY=58"/>
 </p>
 
@@ -673,9 +673,9 @@ at FCAIT.
 
 <br>
 
-<a href="https://github.com/khushboo-yadav28/certificates/blob/main/Microsoft.png">
+<a href="https://github.com/khushboo-yadav28/khushboo-yadav28/blob/main/certificates/Microsoft.png">
 
-<img src="https://raw.githubusercontent.com/khushboo-yadav28/certificates/main/Microsoft.png" width="700">
+<img src="https://raw.githubusercontent.com/khushboo-yadav28/khushboo-yadav28/refs/heads/main/certificates/Microsoft.png" width="700">
 
 </a>
 
@@ -714,7 +714,7 @@ at FCAIT.
 
 <br>
 
-<a href="https://github.com/khushboo-yadav28/certificates/blob/main/Deloitte.pdf">
+<a href="https://github.com/khushboo-yadav28/khushboo-yadav28/blob/main/certificates/Data_Analytics_Deloitte_Certificate.png">
 
 <img src="https://img.shields.io/badge/View_Certificate-Click_Here-blue?style=for-the-badge">
 
