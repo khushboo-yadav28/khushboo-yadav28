@@ -3,7 +3,7 @@
     <td width="65%" valign="middle" align="left">
       <h1 align="left" style="color: #8338EC; font-family: 'Segoe UI', sans-serif;">KHUSHBOO YADAV</h1>
       <p align="left" style="font-size: 1.2em; color: #3A86FF;"><b>Software Engineer & AI/ML Researcher</b></p>
-      <p align="left" style="color: #7B2CBF;">Building responsive full-stack applications and engineering autonomous intelligent workflows.[cite: 2]</p>
+      <p align="left" style="color: #7B2CBF;">Building responsive full-stack applications and engineering autonomous intelligent workflows.</p>
     </td>
     <td width="35%" valign="middle" align="center">
       <img src="https://i.pinimg.com/736x/c7/ca/26/c7ca2639a1dc02e9110984155d058db2.jpg" width="140" height="140" alt="Developer Icon" />
@@ -38,12 +38,12 @@
 
 ## 2. About Me
 
-I am a high-performing IT graduate and master's student driven by the pursuit of turning complex backend logic into elegant, highly intuitive digital experiences[cite: 2]. Bridging the architecture of production-grade full-stack systems with the analytical weight of cutting-edge artificial intelligence, I craft resilient web and mobile ecosystems from inception to deployment[cite: 2].
+I am a high-performing IT graduate and master's student driven by the pursuit of turning complex backend logic into elegant, highly intuitive digital experiences. Bridging the architecture of production-grade full-stack systems with the analytical weight of cutting-edge artificial intelligence, I craft resilient web and mobile ecosystems from inception to deployment.
 
-* **Software Engineering Core:** Dedicated to scalable, dry, and highly maintainable systems programming[cite: 2].
-* **Full-Stack Prototyping:** Advanced capabilities utilizing reactive frameworks (Angular 19 Signals) coupled with asynchronous RESTful layers (Node.js/Django)[cite: 2].
-* **AI/ML Integration:** Actively implementing Agentic AI workflows, Convolutional Neural Networks (CNNs), and text-based sentiment models[cite: 2].
-* **Product Mindset:** Translating real-world operational challenges into microservice or monolithic applications optimized for enterprise performance[cite: 2].
+* **Software Engineering Core:** Dedicated to scalable, dry, and highly maintainable systems programming.
+* **Full-Stack Prototyping:** Advanced capabilities utilizing reactive frameworks (Angular 19 Signals) coupled with asynchronous RESTful layers (Node.js/Django).
+* **AI/ML Integration:** Actively implementing Agentic AI workflows, Convolutional Neural Networks (CNNs), and text-based sentiment models.
+* **Product Mindset:** Translating real-world operational challenges into microservice or monolithic applications optimized for enterprise performance.
 
 ---
 
@@ -90,10 +90,10 @@ I am a high-performing IT graduate and master's student driven by the pursuit of
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
-| **Agentic AI** | Advanced Implementation | Engineering autonomous workflows, multi-agent frameworks, and deterministic execution structures[cite: 2]. |
-| **Computer Vision** | Deep Learning Networks | Design and structural optimization of Convolutional Neural Networks (CNNs), including EfficientNetB0 mappings[cite: 2]. |
-| **Natural Language Processing** | Predictive Inference | Advanced text-based sentiment extraction models for predictive intelligence and landscape mapping[cite: 2]. |
-| **Data Engineering** | Analytics & Architecture | Algorithmic visualization, structured statistical parsing, and enterprise data analytics modeling[cite: 2]. |
+| **Agentic AI** | Advanced Implementation | Engineering autonomous workflows, multi-agent frameworks, and deterministic execution structures. |
+| **Computer Vision** | Deep Learning Networks | Design and structural optimization of Convolutional Neural Networks (CNNs), including EfficientNetB0 mappings. |
+| **Natural Language Processing** | Predictive Inference | Advanced text-based sentiment extraction models for predictive intelligence and landscape mapping. |
+| **Data Engineering** | Analytics & Architecture | Algorithmic visualization, structured statistical parsing, and enterprise data analytics modeling. |
 
 ---
 
@@ -103,18 +103,18 @@ I am a high-performing IT graduate and master's student driven by the pursuit of
 <summary><b>📐 Enterprise Inventory Control System</b></summary>
 <br>
 
-> High-throughput, asynchronous inventory orchestration platform built to structure enterprise warehousing logistics[cite: 2].
+> High-throughput, asynchronous inventory orchestration platform built to structure enterprise warehousing logistics.
 
 | Parameter | Specifications |
 | :--- | :--- |
-| **Stack** | MEAN Stack (MongoDB, Express.js, Angular 19, Node.js), TypeScript, Mongoose[cite: 2] |
-| **Scale** | Warehouse infrastructure supporting real-time multi-terminal state management[cite: 2] |
-| **Performance** | Asynchronous reactive event loops via Angular Signals minimizing structural frame latency[cite: 2] |
-| **Security** | Rigid JSON Web Token (JWT) cryptographic signatures with enterprise Role-Based Access Control (RBAC)[cite: 2] |
-| **Impact** | Automated dynamic ledger reconciliation, pick-and-pack workflow optimization, and autonomous threshold alarms[cite: 2] |
+| **Stack** | MEAN Stack (MongoDB, Express.js, Angular 19, Node.js), TypeScript, Mongoose |
+| **Scale** | Warehouse infrastructure supporting real-time multi-terminal state management |
+| **Performance** | Asynchronous reactive event loops via Angular Signals minimizing structural frame latency |
+| **Security** | Rigid JSON Web Token (JWT) cryptographic signatures with enterprise Role-Based Access Control (RBAC) |
+| **Impact** | Automated dynamic ledger reconciliation, pick-and-pack workflow optimization, and autonomous threshold alarms |
 
 ### Architectural Deep-Dive
-Engineered an enterprise web ecosystem implementing Angular 19 Signals to guarantee fluid state changes without recursive rendering overhead[cite: 2]. Built an asynchronous Node.js engine writing directly to MongoDB via highly abstract Mongoose models to automate stock level delta updates, transaction logging, and purchase request scheduling[cite: 2]. Secured data routes using signed JWT middleware evaluating user security clearances (Admin, Manager, Staff) prior to runtime operations[cite: 2].
+Engineered an enterprise web ecosystem implementing Angular 19 Signals to guarantee fluid state changes without recursive rendering overhead. Built an asynchronous Node.js engine writing directly to MongoDB via highly abstract Mongoose models to automate stock level delta updates, transaction logging, and purchase request scheduling. Secured data routes using signed JWT middleware evaluating user security clearances (Admin, Manager, Staff) prior to runtime operations.
 
 🔗 **[Repository Link](https://github.com/khushboo-yadav28)**
 </details>
@@ -123,18 +123,18 @@ Engineered an enterprise web ecosystem implementing Angular 19 Signals to guaran
 <summary><b>📝 Dynamic Interoperable Blogging Infrastructure</b></summary>
 <br>
 
-> Enterprise data-interoperable content production system optimized for hyper-personalized tracking and low-latency API reads[cite: 2].
+> Enterprise data-interoperable content production system optimized for hyper-personalized tracking and low-latency API reads.
 
 | Parameter | Specifications |
 | :--- | :--- |
-| **Stack** | Python, Django, Django REST Framework (DRF), Bootstrap, SQLite, HTML5/CSS3[cite: 2] |
-| **Scale** | Relational data integrity optimized for high concurrent user search queries[cite: 2] |
-| **Performance** | Sub-millisecond session state evaluation tracking individual client engagement deltas[cite: 2] |
-| **Security** | Secure built-in Django ORM cryptographic password hashing, Cross-Site Scripting (XSS) protections[cite: 2] |
-| **Impact** | Unified decoupled interface exposing robust CRUD endpoints for external consumer synchronization[cite: 2] |
+| **Stack** | Python, Django, Django REST Framework (DRF), Bootstrap, SQLite, HTML5/CSS3 |
+| **Scale** | Relational data integrity optimized for high concurrent user search queries |
+| **Performance** | Sub-millisecond session state evaluation tracking individual client engagement deltas |
+| **Security** | Secure built-in Django ORM cryptographic password hashing, Cross-Site Scripting (XSS) protections |
+| **Impact** | Unified decoupled interface exposing robust CRUD endpoints for external consumer synchronization |
 
 ### Architectural Deep-Dive
-Developed a resilient full-stack publishing web system powered by Django's Model-View-Template layer combined with Django REST Framework to expose clean JSON endpoints[cite: 2]. Integrated advanced server-side session and client cookie parsing mechanics to maintain long-lived state tracking, optimizing application personalization features like tracking high-frequency user visits and dynamic historical "last-read" logs[cite: 2].
+Developed a resilient full-stack publishing web system powered by Django's Model-View-Template layer combined with Django REST Framework to expose clean JSON endpoints. Integrated advanced server-side session and client cookie parsing mechanics to maintain long-lived state tracking, optimizing application personalization features like tracking high-frequency user visits and dynamic historical "last-read" logs.
 
 🔗 **[Repository Link](https://github.com/khushboo-yadav28)**
 </details>
@@ -154,15 +154,15 @@ Developed a resilient full-stack publishing web system powered by Django's Model
     <tbody>
       <tr>
         <td align="center"><b>2nd Prize, Poster Presentation</b><br>Tech Fest 2026</td>
-        <td align="left">Recognized at the state level by the Post Graduate Department of Computer Science & Technology at Sardar Patel University for displaying a high-impact technical blueprint[cite: 2].</td>
+        <td align="left">Recognized at the state level by the Post Graduate Department of Computer Science & Technology at Sardar Patel University for displaying a high-impact technical blueprint.</td>
       </tr>
       <tr>
         <td align="center"><b>3rd Prize, Poster Presentation</b><br>Cyber Shadez 2026</td>
-        <td align="left">Awarded top honors among highly competitive institutional submissions for proposing an advanced layout focused on <b>Agentic AI</b> systems engineering[cite: 2].</td>
+        <td align="left">Awarded top honors among highly competitive institutional submissions for proposing an advanced layout focused on <b>Agentic AI</b> systems engineering.</td>
       </tr>
       <tr>
         <td align="center"><b>5th Departmental Rank</b><br>Academic Excellence (FCAIT)</td>
-        <td align="left">Graduated with distinction holding an <b>8.9 CGPA</b> in the Bachelor of Science in Information Technology cohort over sustained testing cycles[cite: 2].</td>
+        <td align="left">Graduated with distinction holding an <b>8.9 CGPA</b> in the Bachelor of Science in Information Technology cohort over sustained testing cycles.</td>
       </tr>
     </tbody>
   </table>
