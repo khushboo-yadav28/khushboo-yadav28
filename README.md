@@ -660,7 +660,7 @@ at FCAIT.
 
 <br>
 
-<a href="https://github.com/khushboo-yadav28/certificates/blob/main/GoogleCloud.png">
+<a href="https://github.com/khushboo-yadav28/khushboo-yadav28/blob/main/certificates/GoogleCloud.png">
 
 <img src="https://raw.githubusercontent.com/khushboo-yadav28/certificates/main/GoogleCloud.png" width="700">
 
