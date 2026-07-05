@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://github.com/khushboo-yadav28/khushboo-yadav28/blob/main/Github%20banner.png" alt="Khushboo Yadav Banner" width="100%">
 </p>
-<p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,12,20,24,30&text=Khushboo%20Yadav&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Integrated%20M.Sc.%20IT%20Student&descAlignY=58"/> </p>
+<!--<p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,12,20,24,30&text=Khushboo%20Yadav&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Integrated%20M.Sc.%20IT%20Student&descAlignY=58"/> </p>-->
 
 
 <h3 align="center">
