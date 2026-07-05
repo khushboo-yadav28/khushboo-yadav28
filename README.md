@@ -2,15 +2,11 @@
 </p>-->
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <!-- Left Column: The Main Dynamic Banner -->
-    <td align="left" valign="middle" width="82%">
-      <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=30,24,20,12,6&text=Khushboo%20Yadav&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20M.Sc.%20IT%20Student&descAlignY=58" alt="Khushboo's Banner" width="100%"/>
+    <td align="left" valign="middle" width="80%">
+      <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,12,20,24,30&text=Khushboo%20Yadav&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Integrated%20M.Sc.%20IT%20Student&descAlignY=58" alt="Header Banner" width="100%"/>
     </td>
-    <!-- Right Column: The Sticker Floating Elegantly -->
-    <td align="right" valign="middle" width="18%">
-      <div style="padding-left: 10px;">
-        <img src="https://i.pinimg.com/736x/c7/ca/26/c7ca2639a1dc02e9110984155d058db2.jpg" alt="Developer Sticker" width="150px" style="max-width: 100%; border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.3);"/>
-      </div>
+    <td align="right" valign="middle" width="20%">
+      <img src="https://i.pinimg.com/736x/c7/ca/26/c7ca2639a1dc02e9110984155d058db2.jpg" alt="Profile Sticker" width="160px" style="max-width: 100%; display: block; margin-left: auto;"/>
     </td>
   </tr>
 </table>
