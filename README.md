@@ -852,7 +852,7 @@ at FCAIT.
 <!--                 GITHUB ANALYTICS                      -->
 <!-- ===================================================== -->
 
-# 📊 GitHub Analytics
+<!--# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -860,7 +860,7 @@ at FCAIT.
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushboo-yadav28&layout=compact&theme=tokyonight&hide_border=true&title_color=8A5CF6&text_color=c9d1d9&bg_color=0d1117"/>
 
-</p>
+</p>-->
 
 ---
 
@@ -900,7 +900,7 @@ at FCAIT.
 
 ---
 
-# 🏆 GitHub Trophies
+<!--# 🏆 GitHub Trophies
 
 <p align="center">
 
@@ -909,7 +909,7 @@ at FCAIT.
 </p>
 
 ---
-
+-->
 # 📈 Contribution Activity
 
 <p align="center">
