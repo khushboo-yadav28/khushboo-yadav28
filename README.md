@@ -15,21 +15,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3A86FF&center=true&vCenter=true&width=500&lines=Master+of+Science+in+IT;Full+Stack+Software+Engineer;AI+%2F+ML+Researcher" alt="Typing SVG Animation" />
 </p>
 
-<p align="center">
-  <a href="https://glsuniversity.ac.in"><img src="https://img.shields.io/badge/GLS%20University-M.Sc.%20(IT)%20Candidate-3A86FF?style=flat-square&logo=academia&logoColor=white" alt="Academic Badge"></a>
-  <a href="https://glsuniversity.ac.in"><img src="https://img.shields.io/badge/FCAIT-5th%20Departmental%20Rank-8338EC?style=flat-square&logo=read-the-docs&logoColor=white" alt="Academic Rank Badge"></a>
-  <img src="https://img.shields.io/badge/Location-Ahmedabad,%20India-00F5D4?style=flat-square&logo=google-maps&logoColor=000" alt="Location Badge">
-</p>
 
 <p align="center">
-  <a href="https://github.com/khushboo-yadav28"><img src="https://img.shields.io/badge/🚀_PORTFOLIO-PREMIUM_DEVELOPER-8338EC?style=for-the-badge&logoColor=white" alt="Portfolio Button"></a>
+  <!--<a href="https://github.com/khushboo-yadav28"><img src="https://img.shields.io/badge/🚀_PORTFOLIO-PREMIUM_DEVELOPER-8338EC?style=for-the-badge&logoColor=white" alt="Portfolio Button"></a>-->
   <a href="https://www.linkedin.com/in/khushbooo-yadav-4b8449322/"><img src="https://img.shields.io/badge/⚡_LINKEDIN-CONNECT_NOW-3A86FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button"></a>
   <a href="mailto:y08.khushboo@gmail.com"><img src="https://img.shields.io/badge/📧_EMAIL-GET_IN_TOUCH-00F5D4?style=for-the-badge&logo=gmail&logoColor=000" alt="Email Button"></a>
   <a href="https://github.com/khushboo-yadav28"><img src="https://img.shields.io/badge/👾_GITHUB-FOLLOW_ENGINEER-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Button"></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khushboo-yadav28&color=8338EC&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views Badge">
   <img src="https://img.shields.io/github/followers/khushboo-yadav28?label=Followers&style=flat-square&color=3A86FF" alt="Followers Badge">
   <img src="https://img.shields.io/github/stars/khushboo-yadav28?label=Stars&style=flat-square&color=00F5D4" alt="Stars Badge">
 </p>
@@ -174,7 +168,9 @@ Developed a resilient full-stack publishing web system powered by Django's Model
 
 ### AWS
 <p align="left">
-  <a href="https://www.credly.com" target="_blank"><img src="https://img.shields.io/badge/AWS-Foundations_of_Prompt_Engineering-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Cert"></a>
+  <a href="https://github.com/khushboo-yadav28/khushboo-yadav28/blob/main/certificates/aws_cert.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-Foundations_of_Prompt_Engineering-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Cert">
+  </a>
 </p>
 
 ### Google Cloud
