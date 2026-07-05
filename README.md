@@ -7,8 +7,6 @@
       <div style="position: relative;">
         <!-- The Purple Wave Background Base -->
         <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=2A1A4E,3E276A,5A388D,8452B7,B57BE7" alt="Banner Base" width="100%"/>
-        
-        <!-- Animated Gradient Name overlaying the banner -->
         <div style="position: absolute; top: 25%; left: 8%; font-family: 'Segoe UI', system-ui, sans-serif;">
           <h1 style="margin: 0; font-size: 45px; font-weight: 800; background: linear-gradient(45deg, #ff7beb, #B57BE7, #8452B7, #3a96ff, #ff7beb); background-size: 200% auto; -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: shine 3s linear infinite;">
             Khushboo Yadav
@@ -19,8 +17,6 @@
         </div>
       </div>
     </td>
-    
-    <!-- Right Column: The Sticker Element -->
     <td align="right" valign="middle" width="18%">
       <div style="padding-left: 15px;">
         <img src="https://i.pinimg.com/736x/c7/ca/26/c7ca2639a1dc02e9110984155d058db2.jpg" alt="Developer Sticker" width="150px" style="max-width: 100%; border-radius: 15px;"/>
