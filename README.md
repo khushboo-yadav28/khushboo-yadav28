@@ -168,7 +168,7 @@ Developed a resilient full-stack publishing web system powered by Django's Model
 
 ### AWS
 <p align="left">
-  <a href="[https://github.com/khushboo-yadav28/khushboo-yadav28/blob/main/certificates/aws_cert.pdf](https://github.com/khushboo-yadav28/khushboo-yadav28/blob/main/certificates/AWS_Certificate.pdf)" target="_blank">
+  <a href="certificates/AWS_Certificate.pdf" target="_blank">
     <img src="https://img.shields.io/badge/AWS-Foundations_of_Prompt_Engineering-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Cert">
   </a>
 </p>
