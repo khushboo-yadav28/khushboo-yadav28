@@ -1,7 +1,34 @@
-<p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,12,20,24,30&text=Khushboo%20Yadav&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Integrated%20M.Sc.%20IT%20Student&descAlignY=58"/>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <!-- Left Column: Wave Banner with Your Name Only -->
+    <td align="left" valign="middle" width="82%">
+      <div style="position: relative;">
+        <!-- The Purple Wave Background Base -->
+        <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=2A1A4E,3E276A,5A388D,8452B7,B57BE7" alt="Banner Base" width="100%"/>
+        <!-- Animated Gradient Name Only (Centered Vertically) -->
+        <div style="position: absolute; top: 35%; left: 8%; font-family: 'Segoe UI', system-ui, sans-serif;">
+          <h1 style="margin: 0; font-size: 52px; font-weight: 800; background: linear-gradient(45deg, #ff7beb, #B57BE7, #8452B7, #3a96ff, #ff7beb); background-size: 200% auto; -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: shine 3s linear infinite;">
+            Khushboo Yadav
+          </h1>
+        </div>
+      </div>
+    </td>
+    <!-- Right Column: The Cute Cartoon Sticker -->
+    <td align="right" valign="middle" width="18%">
+      <div style="padding-left: 15px;">
+        <img src="https://i.pinimg.com/736x/c7/ca/26/c7ca2639a1dc02e9110984155d058db2.jpg" alt="Cute Developer Cartoon" width="150px" style="max-width: 100%; border-radius: 15px;"/>
+      </div>
+    </td>
+  </tr>
+</table>
 
-</p> 
+<!-- Keyframe animation block to make the text gradient slide smoothly -->
+<style>
+  @keyframes shine {
+    0% { background-position: 0% center; }
+    100% { background-position: 200% center; }
+  }
+</style>
 
 
 <h3 align="center">
