@@ -656,65 +656,47 @@ at FCAIT.
 
 # 📜 Certifications
 
-## ☁ AWS
+<details>
 
-<p>
+<summary>☁ AWS — Foundations of Prompt Engineering</summary>
 
-<img src="https://img.shields.io/badge/AWS-Foundations_of_Prompt_Engineering-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<br>
 
-</p>
+<a href="https://github.com/khushboo-yadav28/certificates/blob/main/AWS%20Prompt%20Engineering.jpg">
 
----
+<img src="https://raw.githubusercontent.com/khushboo-yadav28/certificates/main/AWS%20Prompt%20Engineering.jpg" width="900">
 
-## ☁ Google Cloud
+</a>
 
-<p>
+</details>
 
-<img src="https://img.shields.io/badge/Google_Cloud-Introduction_to_Generative_AI_Studio-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<details>
 
-</p>
+<summary>☁ Google Cloud — Introduction to Generative AI</summary>
 
----
+<br>
 
-## 💻 Microsoft
+<a href="https://github.com/khushboo-yadav28/certificates/blob/main/Google%20Cloud%20GenAI.png">
 
-<p>
+<img src="https://raw.githubusercontent.com/khushboo-yadav28/certificates/main/Google%20Cloud%20GenAI.png" width="900">
 
-<img src="https://img.shields.io/badge/Microsoft-Introduction_to_Copilot_for_Startups-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"/>
+</a>
 
-</p>
+</details>
 
----
+<details>
 
-## 📊 Deloitte Australia
+<summary>📊 Deloitte — Data Analytics Job Simulation</summary>
 
-<p>
+<br>
 
-<img src="https://img.shields.io/badge/Deloitte-Data_Analytics_Job_Simulation-0A9EDC?style=for-the-badge&logo=deloitte&logoColor=white"/>
+<a href="https://github.com/khushboo-yadav28/certificates/blob/main/Deloitte.pdf">
 
-</p>
+<img src="https://img.shields.io/badge/View_Certificate-Click_Here-blue?style=for-the-badge">
 
----
+</a>
 
-## 💳 Mastercard
-
-<p>
-
-<img src="https://img.shields.io/badge/Mastercard-Cybersecurity_Job_Simulation-EB001B?style=for-the-badge&logo=mastercard&logoColor=white"/>
-
-</p>
-
----
-
-## 🤖 Tata
-
-<p>
-
-<img src="https://img.shields.io/badge/Tata-GenAI_Powered_Data_Analytics-1E3A8A?style=for-the-badge"/>
-
-</p>
-
----
+</details>
 
 ## 🎓 GLS University
 
