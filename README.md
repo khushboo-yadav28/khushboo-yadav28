@@ -15,7 +15,6 @@
   </tr>
 </table>
 
-
 <h3 align="center">
 Building Scalable Full Stack Applications while Exploring Artificial Intelligence & Machine Learning
 </h3>
