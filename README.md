@@ -1,18 +1,18 @@
 <table width="100%" cellpadding="20" cellspacing="0" border="0">
   <tr>
     <td width="65%" valign="middle" align="left">
-      <h1 align="left">KHUSHBOO YADAV</h1>
-      <p align="left"><b>Software Engineer & AI/ML Researcher</b></p>
-      <p align="left">Building responsive full-stack applications and engineering autonomous intelligent workflows.</p>
+      <h1 align="left" style="color: #8338EC; font-family: 'Segoe UI', sans-serif;">KHUSHBOO YADAV</h1>
+      <p align="left" style="font-size: 1.2em; color: #3A86FF;"><b>Software Engineer & AI/ML Researcher</b></p>
+      <p align="left" style="color: #7B2CBF;">Building responsive full-stack applications and engineering autonomous intelligent workflows.[cite: 2]</p>
     </td>
     <td width="35%" valign="middle" align="center">
-      <img src="https://i.pinimg.com/736x/c7/ca/26/c7ca2639a1dc02e9110984155d058db2.jpg" width="140" height="140" alt="Developer Icon" style="filter: invert(39%) sepia(87%) saturate(2329%) hue-rotate(247deg) brightness(95%) contrast(93%);" />
+      <img src="https://i.pinimg.com/736x/c7/ca/26/c7ca2639a1dc02e9110984155d058db2.jpg" width="140" height="140" alt="Developer Icon" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00CEC9&center=true&vCenter=true&width=500&lines=Master+of+Science+in+IT;Full+Stack+Software+Engineer;AI+%2F+ML+Researcher" alt="Typing SVG Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3A86FF&center=true&vCenter=true&width=500&lines=Master+of+Science+in+IT;Full+Stack+Software+Engineer;AI+%2F+ML+Researcher" alt="Typing SVG Animation" />
 </p>
 
 <p align="center">
@@ -22,18 +22,19 @@
 </p>
 
 <p align="center">
-  <!--<a href="https://github.com/khushboo-yadav28"><img src="https://img.shields.io/badge/🚀_PORTFOLIO-PREMIUM_DEVELOPER-8338EC?style=for-the-badge&logoColor=white" alt="Portfolio Button"></a>-->
+  <a href="https://github.com/khushboo-yadav28"><img src="https://img.shields.io/badge/🚀_PORTFOLIO-PREMIUM_DEVELOPER-8338EC?style=for-the-badge&logoColor=white" alt="Portfolio Button"></a>
   <a href="https://www.linkedin.com/in/khushbooo-yadav-4b8449322/"><img src="https://img.shields.io/badge/⚡_LINKEDIN-CONNECT_NOW-3A86FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button"></a>
-  <a href="mailto:y08.khushboo@gmail.com"><img src="https://img.shields.io/badge/📧_EMAIL-GET_IN_TOUCH-00CEC9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Button"></a>
+  <a href="mailto:y08.khushboo@gmail.com"><img src="https://img.shields.io/badge/📧_EMAIL-GET_IN_TOUCH-00F5D4?style=for-the-badge&logo=gmail&logoColor=000" alt="Email Button"></a>
   <a href="https://github.com/khushboo-yadav28"><img src="https://img.shields.io/badge/👾_GITHUB-FOLLOW_ENGINEER-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Button"></a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=khushboo-yadav28&color=8338EC&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views Badge">
   <img src="https://img.shields.io/github/followers/khushboo-yadav28?label=Followers&style=flat-square&color=3A86FF" alt="Followers Badge">
-  <img src="https://img.shields.io/github/stars/khushboo-yadav28?label=Stars&style=flat-square&color=00CEC9" alt="Stars Badge">
+  <img src="https://img.shields.io/github/stars/khushboo-yadav28?label=Stars&style=flat-square&color=00F5D4" alt="Stars Badge">
 </p>
-----
+
+---
 
 ## 2. About Me
 
@@ -43,8 +44,10 @@ I am a high-performing IT graduate and master's student driven by the pursuit of
 * **Full-Stack Prototyping:** Advanced capabilities utilizing reactive frameworks (Angular 19 Signals) coupled with asynchronous RESTful layers (Node.js/Django)[cite: 2].
 * **AI/ML Integration:** Actively implementing Agentic AI workflows, Convolutional Neural Networks (CNNs), and text-based sentiment models[cite: 2].
 * **Product Mindset:** Translating real-world operational challenges into microservice or monolithic applications optimized for enterprise performance[cite: 2].
-  ----
-  ## 3. Tech Stack
+
+---
+
+## 3. Tech Stack
 
 ### Languages
 <p align="left">
@@ -77,12 +80,11 @@ I am a high-performing IT graduate and master's student driven by the pursuit of
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <!--<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />-->
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
 </p>
 
-
+---
 
 ## 4. AI/ML Expertise
 
@@ -139,20 +141,7 @@ Developed a resilient full-stack publishing web system powered by Django's Model
 
 ---
 
-## 6. Experience
-
-### Research Associate & Systems Engineer
-**Master's Enterprise Projects — GLS University** | *December 2025 — April 2026*[cite: 2]
-* Constructed production-ready reactive client applications utilizing Angular 19 TypeScript patterns[cite: 2].
-* Formulated scalable architectural patterns to support complex asynchronous data transport over Node.js backend processes[cite: 2].
-* Engineered declarative database definitions inside MongoDB, accelerating read metrics for multi-user dashboard instances[cite: 2].
-* Authored system schemas and secure route interceptors to isolate privileged database operations safely[cite: 2].
-
-`Angular 19` `TypeScript` `Node.js` `Express.js` `MongoDB` `JWT` `RBAC`[cite: 2]
-
----
-
-## 7. Achievements
+## 6. Achievements
 
 <p align="center">
   <table>
@@ -181,7 +170,7 @@ Developed a resilient full-stack publishing web system powered by Django's Model
 
 ---
 
-## 8. Certifications
+## 7. Certifications
 
 ### AWS
 <p align="left">
@@ -208,46 +197,27 @@ Developed a resilient full-stack publishing web system powered by Django's Model
 
 ---
 
-## 9. Coding Profiles
+## 8. GitHub Analytics
 
 <p align="center">
-  <a href="https://leetcode.com"><img src="https://img.shields.io/badge/LeetCode-Premium-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
-  <a href="https://geeksforgeeks.org"><img src="https://img.shields.io/badge/GeeksforGeeks-Data_Structures-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"></a>
-  <a href="https://hackerrank.com"><img src="https://img.shields.io/badge/HackerRank-Verified-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
-  <a href="https://codechef.com"><img src="https://img.shields.io/badge/CodeChef-Competitive-5B4636?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"></a>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=khushboo-yadav28&show_icons=true&theme=dark&hide_border=true&title_color=3A86FF&icon_color=8338EC&text_color=ffffff&bg_color=0D1117" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushboo-yadav28&layout=compact&theme=dark&hide_border=true&title_color=3A86FF&text_color=ffffff&bg_color=0D1117" alt="Top Languages" />
+</p>
+<p align="center">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=khushboo-yadav28&theme=dark&hide_border=true&ring=3A86FF&fire=8338EC&currStreakNum=ffffff&background=0D1117" alt="Streak Stats" />
 </p>
 
 ---
 
-## 10. GitHub Analytics
+## 9. Contribution Activity Section
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=khushboo-yadav28&show_icons=true&theme=dark&hide_border=true&title_color=9457EB&icon_color=7B2CBF&text_color=ffffff&bg_color=0D1117" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushboo-yadav28&layout=compact&theme=dark&hide_border=true&title_color=9457EB&text_color=ffffff&bg_color=0D1117" alt="Top Languages" />
-</p>
-<p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=khushboo-yadav28&theme=dark&hide_border=true&ring=9457EB&fire=7B2CBF&currStreakNum=ffffff&background=0D1117" alt="Streak Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushboo-yadav28&theme=react-dark&bg_color=0D1117&hide_border=true&color=3A86FF" alt="Contribution Activity Graph" />
 </p>
 
 ---
 
-## 11. GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khushboo-yadav28&theme=juicyfresh&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-</p>
-
----
-
-## 12. Contribution Activity Section
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushboo-yadav28&theme=react-dark&bg_color=0D1117&hide_border=true&color=9457EB" alt="Contribution Activity Graph" />
-</p>
-
----
-
-## 13. Contribution Snake
+## 10. Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/khushboo-yadav28/khushboo-yadav28/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
@@ -255,7 +225,7 @@ Developed a resilient full-stack publishing web system powered by Django's Model
 
 ---
 
-## 14. Current Focus
+## 11. Current Focus
 
 ```yaml
 learning:
@@ -268,5 +238,3 @@ exploring:
 openTo:
   - Core System Engineering Internships
   - Enterprise Cross-Platform Application Design
-  
-  
