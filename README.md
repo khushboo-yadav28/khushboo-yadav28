@@ -656,9 +656,11 @@ at FCAIT.
 
 
 
+
+
 # 📜 Certifications
 
-> Click on any certification to view it in full size.
+> Click on any certificate to view it in full size.
 
 ---
 
@@ -667,8 +669,8 @@ at FCAIT.
 
 <br>
 
-<a href="https://github.com/khushboo-yadav28/certificates/blob/main/AWS_Certificate.png">
-<img src="https://raw.githubusercontent.com/khushboo-yadav28/certificates/main/AWS_Certificate.png" width="850"/>
+<a href="./certificates/AWS_Certificate.png">
+<img src="./certificates/AWS_Certificate.png" width="850">
 </a>
 
 </details>
@@ -680,21 +682,8 @@ at FCAIT.
 
 <br>
 
-<a href="https://github.com/khushboo-yadav28/certificates/blob/main/Azure%20Fundamentals_%20Cloud%20Computing%20(1).png">
-<img src="https://raw.githubusercontent.com/khushboo-yadav28/certificates/main/Azure%20Fundamentals_%20Cloud%20Computing%20(1).png" width="850"/>
-</a>
-
-</details>
-
----
-
-<details>
-<summary><b>☁ Google Cloud — Generative AI Leader: GenAI Landscape and Use Cases</b></summary>
-
-<br>
-
-<a href="https://github.com/khushboo-yadav28/certificates/blob/main/Google%20Cloud%20Generative%20AI%20Leader_%20GenAI%20Landscape%20and%20Use%20Cases.png">
-<img src="https://raw.githubusercontent.com/khushboo-yadav28/certificates/main/Google%20Cloud%20Generative%20AI%20Leader_%20GenAI%20Landscape%20and%20Use%20Cases.png" width="850"/>
+<a href="./certificates/Azure%20Fundamentals_%20Cloud%20Computing%20(1).png">
+<img src="./certificates/Azure%20Fundamentals_%20Cloud%20Computing%20(1).png" width="850">
 </a>
 
 </details>
@@ -706,8 +695,8 @@ at FCAIT.
 
 <br>
 
-<a href="https://github.com/khushboo-yadav28/certificates/blob/main/GoogleCloud.png">
-<img src="https://raw.githubusercontent.com/khushboo-yadav28/certificates/main/GoogleCloud.png" width="850"/>
+<a href="./certificates/GoogleCloud.png">
+<img src="./certificates/GoogleCloud.png" width="850">
 </a>
 
 </details>
@@ -715,12 +704,25 @@ at FCAIT.
 ---
 
 <details>
-<summary><b>💻 Microsoft Learn — Python Data Analysis</b></summary>
+<summary><b>☁ Google Cloud — Generative AI Leader: GenAI Landscape and Use Cases</b></summary>
 
 <br>
 
-<a href="https://github.com/khushboo-yadav28/certificates/blob/main/Microsoft.png">
-<img src="https://raw.githubusercontent.com/khushboo-yadav28/certificates/main/Microsoft.png" width="850"/>
+<a href="./certificates/Google%20Cloud%20Generative%20AI%20Leader_%20GenAI%20Landscape%20and%20Use%20Cases.png">
+<img src="./certificates/Google%20Cloud%20Generative%20AI%20Leader_%20GenAI%20Landscape%20and%20Use%20Cases.png" width="850">
+</a>
+
+</details>
+
+---
+
+<details>
+<summary><b>💻 Microsoft Learn — Explore and Analyze Data with Python</b></summary>
+
+<br>
+
+<a href="./certificates/Microsoft.png">
+<img src="./certificates/Microsoft.png" width="850">
 </a>
 
 </details>
@@ -732,8 +734,8 @@ at FCAIT.
 
 <br>
 
-<a href="https://github.com/khushboo-yadav28/certificates/blob/main/Data_Analytics_Deloitte_Certificate.png">
-<img src="https://raw.githubusercontent.com/khushboo-yadav28/certificates/main/Data_Analytics_Deloitte_Certificate.png" width="850"/>
+<a href="./certificates/Data_Analytics_Deloitte_Certificate.png">
+<img src="./certificates/Data_Analytics_Deloitte_Certificate.png" width="850">
 </a>
 
 </details>
@@ -745,8 +747,8 @@ at FCAIT.
 
 <br>
 
-<a href="https://github.com/khushboo-yadav28/certificates/blob/main/Mastercard_cybersecurity_certificate.png">
-<img src="https://raw.githubusercontent.com/khushboo-yadav28/certificates/main/Mastercard_cybersecurity_certificate.png" width="850"/>
+<a href="./certificates/Mastercard_cybersecurity_certificate.png">
+<img src="./certificates/Mastercard_cybersecurity_certificate.png" width="850">
 </a>
 
 </details>
@@ -758,8 +760,8 @@ at FCAIT.
 
 <br>
 
-<a href="https://github.com/khushboo-yadav28/certificates/blob/main/GenAI_Powered_Data_Analytics_Tata_Certificate.png">
-<img src="https://raw.githubusercontent.com/khushboo-yadav28/certificates/main/GenAI_Powered_Data_Analytics_Tata_Certificate.png" width="850"/>
+<a href="./certificates/GenAI_Powered_Data_Analytics_Tata_Certificate.png">
+<img src="./certificates/GenAI_Powered_Data_Analytics_Tata_Certificate.png" width="850">
 </a>
 
 </details>
@@ -771,8 +773,8 @@ at FCAIT.
 
 <br>
 
-<a href="https://github.com/khushboo-yadav28/certificates/blob/main/Cyber_Security_Operations_DataCom_Certificate.png">
-<img src="https://raw.githubusercontent.com/khushboo-yadav28/certificates/main/Cyber_Security_Operations_DataCom_Certificate.png" width="850"/>
+<a href="./certificates/Cyber_Security_Operations_DataCom_Certificate.png">
+<img src="./certificates/Cyber_Security_Operations_DataCom_Certificate.png" width="850">
 </a>
 
 </details>
@@ -780,12 +782,12 @@ at FCAIT.
 ---
 
 <details>
-<summary><b>🎨 Adobe — Creative Cloud Suite (Infosys Springboard)</b></summary>
+<summary><b>🎨 Adobe Creative Cloud Suite — Infosys Springboard</b></summary>
 
 <br>
 
-<a href="https://github.com/khushboo-yadav28/certificates/blob/main/Adobe_Cloud_Suite_Infosys.png">
-<img src="https://raw.githubusercontent.com/khushboo-yadav28/certificates/main/Adobe_Cloud_Suite_Infosys.png" width="850"/>
+<a href="./certificates/Adobe_Cloud_Suite_Infosys.png">
+<img src="./certificates/Adobe_Cloud_Suite_Infosys.png" width="850">
 </a>
 
 </details>
@@ -793,12 +795,12 @@ at FCAIT.
 ---
 
 <details>
-<summary><b>☁ Infosys Springboard — Cloud Technologies</b></summary>
+<summary><b>☁ Cloud Technologies — Infosys Springboard</b></summary>
 
 <br>
 
-<a href="https://github.com/khushboo-yadav28/certificates/blob/main/Cloud_Technologies_Infosys.png">
-<img src="https://raw.githubusercontent.com/khushboo-yadav28/certificates/main/Cloud_Technologies_Infosys.png" width="850"/>
+<a href="./certificates/Cloud_Technologies_Infosys.png">
+<img src="./certificates/Cloud_Technologies_Infosys.png" width="850">
 </a>
 
 </details>
@@ -806,16 +808,15 @@ at FCAIT.
 ---
 
 <details>
-<summary><b>📚 Infosys Springboard — Udemy Learning Certificate</b></summary>
+<summary><b>📚 Udemy Learning Certificate — Infosys Springboard</b></summary>
 
 <br>
 
-<a href="https://github.com/khushboo-yadav28/certificates/blob/main/Udemy%20_%20infosys_certificate.png">
-<img src="https://raw.githubusercontent.com/khushboo-yadav28/certificates/main/Udemy%20_%20infosys_certificate.png" width="850"/>
+<a href="./certificates/Udemy%20_%20infosys_certificate.png">
+<img src="./certificates/Udemy%20_%20infosys_certificate.png" width="850">
 </a>
 
 </details>
-
 ---
 
 # 🌟 Highlights
