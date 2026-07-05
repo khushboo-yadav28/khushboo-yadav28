@@ -662,9 +662,9 @@ at FCAIT.
 
 <br>
 
-<a href="https://github.com/khushboo-yadav28/certificates/blob/main/AWS%20Prompt%20Engineering.jpg">
+<a href="certificates/AWS_Certificate.pdf">
 
-<img src="https://raw.githubusercontent.com/khushboo-yadav28/certificates/main/AWS%20Prompt%20Engineering.jpg" width="900">
+<img src="certificates/AWS_Certificate.pdf" width="900">
 
 </a>
 
@@ -697,48 +697,6 @@ at FCAIT.
 </a>
 
 </details>
-
-## 🎓 GLS University
-
-<p>
-
-<img src="https://img.shields.io/badge/FCAIT-Professional_Skills_for_Placement_Success-7C3AED?style=for-the-badge"/>
-
-</p>
-
----
-
-# 💻 Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/">
-
-<img src="https://img.shields.io/badge/LeetCode-Solve_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-
-</a>
-
-<a href="https://www.hackerrank.com/">
-
-<img src="https://img.shields.io/badge/HackerRank-Programming-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-
-</a>
-
-<a href="https://auth.geeksforgeeks.org/">
-
-<img src="https://img.shields.io/badge/GeeksforGeeks-Coding_Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-
-</a>
-
-<a href="https://www.codechef.com/">
-
-<img src="https://img.shields.io/badge/CodeChef-Competitive_Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-
-</a>
-
-</p>
-
-> **Note:** Replace the links above with your actual coding profile URLs.
 
 ---
 
