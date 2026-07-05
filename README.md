@@ -1,35 +1,8 @@
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <!-- Left Column: Wave Banner + Your Dynamic Animated Name -->
-    <td align="left" valign="middle" width="82%">
-      <div style="position: relative;">
-        <!-- The Purple Wave Background Base -->
-        <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=2A1A4E,3E276A,5A388D,8452B7,B57BE7" alt="Banner Base" width="100%"/>
-        <div style="position: absolute; top: 25%; left: 8%; font-family: 'Segoe UI', system-ui, sans-serif;">
-          <h1 style="margin: 0; font-size: 45px; font-weight: 800; background: linear-gradient(45deg, #ff7beb, #B57BE7, #8452B7, #3a96ff, #ff7beb); background-size: 200% auto; -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: shine 3s linear infinite;">
-            Khushboo Yadav
-          </h1>
-          <p style="margin: 5px 0 0 0; font-size: 16px; color: rgba(255, 255, 255, 0.85); font-weight: 500; letter-spacing: 0.5px;">
-            Full Stack Developer | AI Enthusiast | M.Sc. IT Student
-          </p>
-        </div>
-      </div>
-    </td>
-    <td align="right" valign="middle" width="18%">
-      <div style="padding-left: 15px;">
-        <img src="https://i.pinimg.com/736x/c7/ca/26/c7ca2639a1dc02e9110984155d058db2.jpg" alt="Developer Sticker" width="150px" style="max-width: 100%; border-radius: 15px;"/>
-      </div>
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,12,20,24,30&text=Khushboo%20Yadav&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Integrated%20M.Sc.%20IT%20Student&descAlignY=58"/>
 
-<!-- Keyframe animation block to make the text gradient slide smoothly like the GIF -->
-<style>
-  @keyframes shine {
-    0% { background-position: 0% center; }
-    100% { background-position: 200% center; }
-  }
-</style>
+</p> 
+
 
 <h3 align="center">
 Building Scalable Full Stack Applications while Exploring Artificial Intelligence & Machine Learning
