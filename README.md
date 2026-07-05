@@ -20,7 +20,7 @@ Building Scalable Full Stack Applications while Exploring Artificial Intelligenc
 
 <img src="https://img.shields.io/badge/🏆_5th_Department_Rank-8.9_CGPA-3B82F6?style=for-the-badge">
 
->!--<img src="https://img.shields.io/badge/📍_Ahmedabad-India-1E293B?style=for-the-badge">-->
+<!--<img src="https://img.shields.io/badge/📍_Ahmedabad-India-1E293B?style=for-the-badge">-->
 
 </p>
 
@@ -655,7 +655,31 @@ at FCAIT.
 ---
 
 # 📜 Certifications
+<details>
+<summary>☁ Google Cloud — Introduction to Generative AI</summary>
 
+<br>
+
+<a href="https://github.com/khushboo-yadav28/certificates/blob/main/GoogleCloud.png">
+
+<img src="https://raw.githubusercontent.com/khushboo-yadav28/certificates/main/GoogleCloud.png" width="700">
+
+</a>
+
+</details>
+
+<details>
+<summary>💻 Microsoft — Introduction to Copilot for Startups</summary>
+
+<br>
+
+<a href="https://github.com/khushboo-yadav28/certificates/blob/main/Microsoft.png">
+
+<img src="https://raw.githubusercontent.com/khushboo-yadav28/certificates/main/Microsoft.png" width="700">
+
+</a>
+
+</details>
 <details>
 
 <summary>☁ AWS — Foundations of Prompt Engineering</summary>
