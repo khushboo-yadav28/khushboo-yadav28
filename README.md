@@ -362,12 +362,12 @@ Daily Python + AI Learning Projects
 |---------|------------|
 | 👋 Hand Gesture Recognition | Python, OpenCV, MediaPipe |
 | 🎤 Speech to Text | Python, SpeechRecognition |
-| 🖼 OCR | OpenCV, EasyOCR |
+<!--| 🖼 OCR | OpenCV, EasyOCR |
 | 😊 Face Detection | OpenCV |
 | 😀 Emotion Detection | Deep Learning |
 | 🖱 Virtual Mouse | MediaPipe |
 | 🧠 Image Classification | CNN |
-| 📊 Data Visualization | Pandas, Matplotlib |
+| 📊 Data Visualization | Pandas, Matplotlib |-->
 
 ### Purpose
 
