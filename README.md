@@ -872,9 +872,7 @@ at FCAIT.
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=khushboo-yadav28&theme=tokyonight&hide_border=true&ring=8A5CF6&fire=8A5CF6&currStreakLabel=8A5CF6"/>
-
+  <img src="https://streak-stats.demolab.com?user=khushboo-yadav28&theme=tokyonight&hide_border=true&ring=8A5CF6&fire=8A5CF6&currStreakNum=ffffff" alt="GitHub Streak" />
 </p>
 
 ---
