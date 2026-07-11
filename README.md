@@ -833,6 +833,19 @@ at FCAIT.
 
 ---
 
+<details>
+<summary><b>🚀 CampusCrew — 100K Milestone Honor Certificate</b></summary>
+
+<br>
+
+<a href="./certificates/campuscrew_100k_honor.png">
+<img src="./certificates/campuscrew_100k_honor.png" width="850" alt="CampusCrew 100K Milestone Honor">
+</a>
+
+</details>
+
+---
+
 # 🌟 Highlights
 
 ✔ Full Stack Development
