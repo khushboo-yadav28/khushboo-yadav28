@@ -839,7 +839,7 @@ at FCAIT.
 <br>
 
 <a href="./certificates/campuscrew_100k_honor.png">
-<img src="./certificates/campuscrew_100k_honor.png" width="850" alt="CampusCrew 100K Milestone Honor">
+<img src="https://github.com/khushboo-yadav28/khushboo-yadav28/blob/main/certificates/campuscrew_honor_certificate.png" width="850" alt="CampusCrew 100K Milestone Honor">
 </a>
 
 </details>
