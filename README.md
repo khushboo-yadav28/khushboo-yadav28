@@ -337,9 +337,9 @@ A complete blogging application built using Django and Django REST Framework wit
 
 ### 📌 Repository
 
-```text
-Coming Soon
-```
+<a href="https://github.com/khushboo-yadav28/Blog-Website">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </details>
 
