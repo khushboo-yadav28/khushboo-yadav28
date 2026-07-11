@@ -288,9 +288,10 @@ A scalable inventory management system built to simplify stock management, purch
 
 ### 📌 Repository
 
-```text
-Coming Soon
-```
+<a href="https://github.com/khushboo-yadav28/FullStack-Inventory-Control-System">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 
 </details>
 
