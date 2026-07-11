@@ -372,6 +372,14 @@ Daily Python + AI Learning Projects
 ### Purpose
 
 I build small AI applications regularly to strengthen my Python programming, Computer Vision, and Machine Learning skills through hands-on practice.
+### 📌 Repository
+
+<a href="https://github.com/khushboo-yadav28/NLP_Tasks/tree/main/Hand_gesture_task">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://github.com/khushboo-yadav28/NLP_Tasks/tree/main/Speech_to_Text">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </details>
 
